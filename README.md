@@ -16,6 +16,6 @@ Search the key words 'graph' OR 'dynamic' only in the title
 
 `python scrap_paper_digest.py --url https://www.paperdigest.org/2022/04/www-2022-highlights/ -w graph dynamic > dynamic.txt`
 
-Search the key words 'graph' OR 'dynamic' only in the title and in  the highlights 
+Search the key words 'graph' OR 'dynamic' in the title AND in  the highlights 
 
 `python scrap_paper_digest.py --url https://www.paperdigest.org/2022/04/www-2022-highlights/ -w graph dynamic --search_highlights > dynamic.txt`
