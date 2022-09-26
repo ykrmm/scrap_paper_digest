@@ -2,8 +2,8 @@
 
 ## Step 1: Go to [Conference Paper Digests by Year](https://www.paperdigest.org/conference-paper-digest/)
 
-Select the url of the conference you want scrap 
-Example : https://www.paperdigest.org/2022/07/icml-2022-highlights/
+Select the url of the conference you want scrap.
+Example ICML 2022 Conference : https://www.paperdigest.org/2022/07/icml-2022-highlights/
 
 
 ## Step 2 : Run the program scrapper with your key word 
